@@ -34,7 +34,7 @@ We're always interested in growing mutually by inviting developers & motivating 
 
 # Compatibility with Magento Versions
 
-* Magento 2.4.X (CE, EE, ECE)
+* Magento 2.3 (CE, EE, ECE)
 
 # Installing Via Composer
   
