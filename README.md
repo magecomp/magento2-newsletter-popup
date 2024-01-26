@@ -24,9 +24,9 @@ We're always interested in growing mutually by inviting developers & motivating 
 
 * Configure the extension in just a few clicks.
 
-*  Build trust and relationship with your customers.
+*  Build trust and relationships with your customers.
 
-*  To grow your Email list, the extension will show the popup on every page of the site.
+*  To grow your email list, the extension will show the popup on every page of the site.
 
 # What About the Pricing?
 
@@ -34,7 +34,7 @@ We're always interested in growing mutually by inviting developers & motivating 
 
 # Compatibility with Magento Versions
 
-* Magento 2.3 (CE, EE, ECE)
+* Magento 2.2.0 - 2.3.X (CE, EE, ECE)
 
 # Installing Via Composer
   
