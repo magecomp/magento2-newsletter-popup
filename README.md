@@ -8,7 +8,7 @@ Magento 2 Newsletter Popup Extension from MageComp will assist Magento store own
 
 # Contribute & Explore Your Coding Skills
 
-We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Admin Reindex & Quick Cache. Be ready to hit your keyboard keys & get listed today!
+We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Newsletter Popup module. Be ready to hit your keyboard keys & get listed today!
 
 # Benifits
 
