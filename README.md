@@ -14,7 +14,7 @@ We're always interested in growing mutually by inviting developers & motivating 
   <img src="https://contrib.rocks/image?repo=magecomp/magento2-newsletter-popup" />
 </a>
 
-# Benifits
+# Benefits
 
 * Show the Newsletter Popup on each page of your website.
 
