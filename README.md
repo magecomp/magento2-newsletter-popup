@@ -4,7 +4,7 @@
 
 Magento 2 Newsletter Popup Extension from MageComp will assist Magento store owners in increasing brand awareness, promoting, and updating their customers via email marketing strategy. The addon helps you enhance your sales and customer loyalty.
 
-<a href="[(https://magecomp.com/magento-2-newsletter-popup.html)](https://magecomp.com/magento-2-newsletter-popup.html)" target="_blank"><img width="150" height="46" src="https://magecomp.com/media/button.webp"></a>
+<a href="https://magecomp.com/magento-2-newsletter-popup.html" target="_blank"><img width="150" height="46" src="https://magecomp.com/media/button.webp"></a>
 
 # Contribute & Explore Your Coding Skills
 
@@ -57,7 +57,7 @@ Enable or Disable the extension from here. Set it as enabled to use the features
 
 ![ba2](https://github.com/magecomp/magento2-newsletter-popup/assets/8856845/35fe308e-a7ba-4c18-8008-a06862744d94)
 
-# Lets's see How it's Work
+# Let's see How it's Work
 * Display of newsletter on the desktop screen of your store.
 
 ![ba3](https://github.com/magecomp/magento2-newsletter-popup/assets/8856845/01ee5e68-cea7-4f35-8e71-3757a0daab2f)
@@ -66,7 +66,7 @@ Enable or Disable the extension from here. Set it as enabled to use the features
 
 ![ba5](https://github.com/magecomp/magento2-newsletter-popup/assets/8856845/2c2b3f62-877b-4f85-b1b8-0f48a5480fea)
 
-Display of newsletter on the tablet screen of your store.
+* Display of newsletter on the tablet screen of your store.
 
 ![ba6](https://github.com/magecomp/magento2-newsletter-popup/assets/8856845/18f24133-c75b-489b-8da2-a835665e127a)
 
