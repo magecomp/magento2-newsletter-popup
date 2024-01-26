@@ -10,6 +10,10 @@ Magento 2 Newsletter Popup Extension from MageComp will assist Magento store own
 
 We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Newsletter Popup module. Be ready to hit your keyboard keys & get listed today!
 
+<a href="https://github.com/magecomp/magento2-newsletter-popup/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=magecomp/magento2-newsletter-popup" />
+</a>
+
 # Benifits
 
 * Show the Newsletter Popup on each page of your website.
